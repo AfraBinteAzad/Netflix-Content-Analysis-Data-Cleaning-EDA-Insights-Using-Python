@@ -64,13 +64,6 @@ Content Growth Over Time
 * Peak content addition year: **2019**
 * Significant growth observed after 2015
 
----
-
-WordCloud of Descriptions
-
-This visualization highlights the most common words used in Netflix content descriptions.
-
-![WordCloud](images/wordcloud.png)
 
 
 Key Insights
