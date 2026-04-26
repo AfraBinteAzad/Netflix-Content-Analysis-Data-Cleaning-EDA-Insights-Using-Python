@@ -1,16 +1,15 @@
 ![WordCloud](images/git.png)
 
-# 🎬 Netflix Data Analysis Project
+Netflix Data Analysis Project
 
-## 📌 Overview
+Overview
 
 This project explores a Netflix dataset containing movies and TV shows to uncover insights about content distribution, trends, and patterns.
 
 The analysis includes **data cleaning, exploratory data analysis (EDA), and visualization** using Python.
 
----
 
-## 📊 Dataset Information
+Dataset Information
 
 The dataset contains the following columns:
 
@@ -26,9 +25,9 @@ The dataset contains the following columns:
 * Type
 * Description
 
----
 
-## 🧹 Data Cleaning
+
+Data Cleaning
 
 * Filled missing values in:
 
@@ -42,32 +41,32 @@ The dataset contains the following columns:
 * Converted `Release_Date` to datetime format
 * Extracted `Year` column for time-based analysis
 
----
 
-## 📈 Exploratory Data Analysis
 
-### 🎬 Movies vs TV Shows
+Exploratory Data Analysis
+
+Movies vs TV Shows
 
 * Movies dominate Netflix content compared to TV Shows
 
-### 🌍 Top Producing Countries
+Top Producing Countries
 
 * United States leads significantly
 * India is the second-largest contributor
 * Some entries have missing/unknown country data
 
-### ⭐ Ratings Distribution
+Ratings Distribution
 
 * Most common rating: **TV-MA**
 
-### 📅 Content Growth Over Time
+Content Growth Over Time
 
 * Peak content addition year: **2019**
 * Significant growth observed after 2015
 
 ---
 
-## ☁️ WordCloud of Descriptions
+WordCloud of Descriptions
 
 This visualization highlights the most common words used in Netflix content descriptions.
 
